@@ -31,7 +31,9 @@ canvas {
   top: 0;
   left: 0;
 }
-
+ audio{
+  display:none;
+ }
 
 
 header {
